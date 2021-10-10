@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/mentoria-2.0/static/css/main.9be807f8.chunk.css",
+    "main.js": "/mentoria-2.0/static/js/main.9f924a6f.chunk.js",
+    "main.js.map": "/mentoria-2.0/static/js/main.9f924a6f.chunk.js.map",
+    "runtime-main.js": "/mentoria-2.0/static/js/runtime-main.8e7c0f83.js",
+    "runtime-main.js.map": "/mentoria-2.0/static/js/runtime-main.8e7c0f83.js.map",
+    "static/css/2.3dcab6e7.chunk.css": "/mentoria-2.0/static/css/2.3dcab6e7.chunk.css",
+    "static/js/2.ad9e8caf.chunk.js": "/mentoria-2.0/static/js/2.ad9e8caf.chunk.js",
+    "static/js/2.ad9e8caf.chunk.js.map": "/mentoria-2.0/static/js/2.ad9e8caf.chunk.js.map",
+    "static/js/3.ee346631.chunk.js": "/mentoria-2.0/static/js/3.ee346631.chunk.js",
+    "static/js/3.ee346631.chunk.js.map": "/mentoria-2.0/static/js/3.ee346631.chunk.js.map",
+    "index.html": "/mentoria-2.0/index.html",
+    "static/css/2.3dcab6e7.chunk.css.map": "/mentoria-2.0/static/css/2.3dcab6e7.chunk.css.map",
+    "static/css/main.9be807f8.chunk.css.map": "/mentoria-2.0/static/css/main.9be807f8.chunk.css.map",
+    "static/js/2.ad9e8caf.chunk.js.LICENSE.txt": "/mentoria-2.0/static/js/2.ad9e8caf.chunk.js.LICENSE.txt",
+    "static/media/Feedback1.c1e019e4.JPG": "/mentoria-2.0/static/media/Feedback1.c1e019e4.JPG",
+    "static/media/Feedback2.c0a8aadd.JPG": "/mentoria-2.0/static/media/Feedback2.c0a8aadd.JPG",
+    "static/media/Feedback3.e3cebbcf.JPG": "/mentoria-2.0/static/media/Feedback3.e3cebbcf.JPG",
+    "static/media/Feedback4.247a882b.jpeg": "/mentoria-2.0/static/media/Feedback4.247a882b.jpeg",
+    "static/media/Feedback5.ad0e115b.JPG": "/mentoria-2.0/static/media/Feedback5.ad0e115b.JPG",
+    "static/media/book-gold.634dc04c.png": "/mentoria-2.0/static/media/book-gold.634dc04c.png",
+    "static/media/car.763e329c.svg": "/mentoria-2.0/static/media/car.763e329c.svg",
+    "static/media/cartoes.dac37a37.svg": "/mentoria-2.0/static/media/cartoes.dac37a37.svg",
+    "static/media/chicago.0f0868e4.svg": "/mentoria-2.0/static/media/chicago.0f0868e4.svg",
+    "static/media/computer-gold3.8442d0f7.png": "/mentoria-2.0/static/media/computer-gold3.8442d0f7.png",
+    "static/media/computer.83dab6fe.png": "/mentoria-2.0/static/media/computer.83dab6fe.png",
+    "static/media/edu-gold-mentor.d8102159.png": "/mentoria-2.0/static/media/edu-gold-mentor.d8102159.png",
+    "static/media/edu-gold.754cae67.png": "/mentoria-2.0/static/media/edu-gold.754cae67.png",
+    "static/media/freedom.c5a5ab31.png": "/mentoria-2.0/static/media/freedom.c5a5ab31.png",
+    "static/media/networking.4eb9435d.svg": "/mentoria-2.0/static/media/networking.4eb9435d.svg",
+    "static/media/outdoor.329a6824.svg": "/mentoria-2.0/static/media/outdoor.329a6824.svg",
+    "static/media/portfolio-black.16947093.png": "/mentoria-2.0/static/media/portfolio-black.16947093.png",
+    "static/media/test.03bd70ad.png": "/mentoria-2.0/static/media/test.03bd70ad.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e7c0f83.js",
+    "static/css/2.3dcab6e7.chunk.css",
+    "static/js/2.ad9e8caf.chunk.js",
+    "static/css/main.9be807f8.chunk.css",
+    "static/js/main.9f924a6f.chunk.js"
+  ]
+}
